@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/mailhog/backends/config"
+	"github.com/boddumanohar/backends/config"
 	"github.com/mailhog/data"
 )
 

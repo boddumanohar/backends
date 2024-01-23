@@ -1,0 +1,10 @@
+github.com/mailhog/data v1.0.1 h1:7I+opBvVdi4EMJaihXavM98jp/ovt4o6mz47446RAW8=
+github.com/mailhog/data v1.0.1/go.mod h1:tjR/iXRhbSUKHzAAMd99RygVaDB5rIDC/bmWc363MzU=
+github.com/mailhog/smtp v1.0.1 h1:igL3N/L+pWuGCqUaje21HX3VIVnqHoVlqWO0t+wJEYE=
+github.com/mailhog/smtp v1.0.1/go.mod h1:GMrAdv1hXro38xj5dsWPAk5ZiXJHFx9t7W9Yqsk0XUM=
+golang.org/x/crypto v0.18.0 h1:PGVlW0xEltQnzFZ55hkuX5+KLyrMYhHld1YHO4AKcdc=
+golang.org/x/crypto v0.18.0/go.mod h1:R0j02AL6hcrfOiy9T4ZYp/rcWeMxM3L6QYxlOuEG1mg=
+golang.org/x/sys v0.16.0 h1:xWw16ngr6ZMtmxDyKyIgsE93KNKz5HKmMa3b8ALHidU=
+golang.org/x/sys v0.16.0/go.mod h1:/VUhepiaJMQUp4+oa/7Zr1D23ma6VTLIYjOOTFZPUcA=
+gopkg.in/fsnotify.v1 v1.4.7 h1:xOHLXZwVvI9hhs+cLKq5+I5onOuwQLhQwiu63xxlHs4=
+gopkg.in/fsnotify.v1 v1.4.7/go.mod h1:Tz8NjZHkW78fSQdbUxIjBTcgA1z1m8ZHf0WmKUhAMys=

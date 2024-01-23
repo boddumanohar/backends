@@ -5,8 +5,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/mailhog/backends/auth"
-	"github.com/mailhog/backends/config"
+	"github.com/boddumanohar/backends/auth"
+	"github.com/boddumanohar/backends/config"
 	"github.com/mailhog/data"
 )
 

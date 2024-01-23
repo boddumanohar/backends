@@ -8,9 +8,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/mailhog/backends/config"
-	"github.com/mailhog/backends/delivery"
-	"github.com/mailhog/backends/resolver"
+	"github.com/boddumanohar/backends/config"
+	"github.com/boddumanohar/backends/delivery"
+	"github.com/boddumanohar/backends/resolver"
 	"github.com/mailhog/data"
 )
 
